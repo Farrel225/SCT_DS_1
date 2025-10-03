@@ -6,7 +6,7 @@ This repository contains the work for the first task of the SkillCraft Technolog
 
 ## 📝 Project Description
 
-The goal of this task was to perform data visualization of categorical and continuous variables on a dataset. 
+The goal of this task was to perform a simple data visualization of categorical and continuous variables on a dataset. 
 I created two bar charts to visualize population trends and distributions using Python with the Matplotlib.
 
 ## 📊 Visualizations
