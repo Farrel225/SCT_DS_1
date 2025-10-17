@@ -4,12 +4,12 @@
 
 This repository contains the work for the first task of the SkillCraft Technology Data Science Internship.
 
-## 📝 Project Description
+## 📝 Project Scope
 
 The goal of this task was to perform a simple data visualization of categorical and continuous variables on a dataset. 
 I created two bar charts to visualize population trends and distributions using Python with the Matplotlib.
 
-## 📊 Visualizations
+## 📊 Insights
 
 Here are the charts generated from the analysis:
 
